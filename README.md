@@ -20,6 +20,6 @@ My first repository
 Practice using GitHub by creating a sample repository. This is my first repository, so I am practicing
 
   **Bold** text
-  *Italics* text
-  ~~Strikethrough~~ text
-  ***Bold and Italics*** text
+    *Italics* text
+      ~~Strikethrough~~ text
+        ***Bold and Italics*** text

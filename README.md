@@ -18,3 +18,8 @@ My first repository
 ## Description
 
 Practice using GitHub by creating a sample repository. This is my first repository, so I am practicing
+
+**Bold** text
+*Italics* text
+~~Strikethrough~~ text
+***Bold and Italics*** text

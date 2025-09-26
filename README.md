@@ -23,4 +23,3 @@ Practice using GitHub by creating a sample repository. This is my first reposito
   *Italics* text
   ~~Strikethrough~~ text
   ***Bold and Italics*** text
-,
